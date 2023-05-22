@@ -1,0 +1,302 @@
+date,v_name,h_name,winning_pitcher_name,losing_pitcher_name,v_score,v_at_bats,v_hits,h_score,h_at_bats,h_hits
+20230401,Toronto Blue Jays,St. Louis Cardinals,Jack Flaherty,Kevin Gausman,1,29,3,4,33,10
+20230401,Milwaukee Brewers,Chicago Cubs,Peter Strzelecki,Javier Assad,3,32,6,1,31,5
+20230401,Philadelphia Phillies,Texas Rangers,Nathan Eovaldi,Zack Wheeler,3,34,9,16,40,17
+20230401,Atlanta Braves,Washington Nationals,Spencer Strider,Josiah Gray,7,35,11,1,30,5
+20230401,Los Angeles Angels,Oakland Athletics,Patrick Sandoval,Shintaro Fujinami,13,36,11,1,30,5
+20230401,Baltimore Orioles,Boston Red Sox,Kenley Jansen,Félix Bautista,8,38,13,9,37,11
+20230401,Pittsburgh Pirates,Cincinnati Reds,Nick Lodolo,Rich Hill,2,34,7,6,30,6
+20230401,Minnesota Twins,Kansas City Royals,Sonny Gray,Jordan Lyles,2,31,5,0,30,4
+20230401,Detroit Tigers,Tampa Bay Rays,Zach Eflin,Spencer Turnbull,2,34,6,12,36,13
+20230401,Colorado Rockies,San Diego Padres,Michael Wacha,José Ureña,4,31,6,8,32,10
+20230401,Cleveland Guardians,Seattle Mariners,Aaron Civale,Logan Gilbert,2,32,5,0,29,3
+20230402,San Francisco Giants,New York Yankees,Jhony Brito,Ross Stripling,0,29,3,6,29,7
+20230402,Minnesota Twins,Kansas City Royals,Joe Ryan,Brad Keller,7,38,13,4,33,6
+20230402,Arizona Diamondbacks,Los Angeles Dodgers,Andrew Chafin,Brusdar Graterol,2,33,9,1,31,4
+20230402,Colorado Rockies,San Diego Padres,Seth Lugo,Austin Gomber,1,31,4,3,27,4
+20230402,Cleveland Guardians,Seattle Mariners,Enyel De Los Santos,Penn Murfee,6,37,9,5,39,9
+20230403,Tampa Bay Rays,Washington Nationals,Drew Rasmussen,Trevor Williams,6,34,9,2,32,4
+20230403,Pittsburgh Pirates,Boston Red Sox,Duane Underwood Jr.,Kutter Crawford,7,35,9,6,38,10
+20230403,Detroit Tigers,Houston Astros,Trey Wingenter,Hector Neris,7,41,9,6,42,9
+20230403,Cleveland Guardians,Oakland Athletics,Emmanuel Clase,Trevor May,12,43,16,11,43,14
+20230403,Colorado Rockies,Los Angeles Dodgers,Yency Almonte,Ryan Feltner,4,32,6,13,36,13
+20230404,Atlanta Braves,St. Louis Cardinals,Dylan Dodd,Steven Matz,4,37,12,1,34,10
+20230404,Baltimore Orioles,Texas Rangers,Kyle Gibson,Andrew Heaney,7,35,8,2,32,7
+20230404,Detroit Tigers,Houston Astros,Matt Manning,Framber Valdez,6,37,12,3,34,10
+20230404,Los Angeles Angels,Seattle Mariners,Luis Castillo,José Suarez,2,33,7,11,37,13
+20230404,Colorado Rockies,Los Angeles Dodgers,Julio Urías,Germán Márquez,2,32,7,5,28,7
+20230405,Tampa Bay Rays,Washington Nationals,Shane McClanahan,Patrick Corbin,7,35,11,2,31,6
+20230405,Atlanta Braves,St. Louis Cardinals,Bryce Elder,Miles Mikolas,5,36,10,2,30,6
+20230405,Baltimore Orioles,Texas Rangers,Jacob deGrom,Austin Voth,2,29,2,5,33,9
+20230405,San Francisco Giants,Chicago White Sox,Dylan Cease,Logan Webb,3,32,4,7,36,13
+20230406,Boston Red Sox,Detroit Tigers,Chris Sale,Spencer Turnbull,6,31,7,3,33,6
+20230406,San Francisco Giants,Chicago White Sox,Jakob Junis,Lance Lynn,16,47,20,6,39,11
+20230406,Washington Nationals,Colorado Rockies,Kyle Freeland,Josiah Gray,0,32,6,1,33,9
+20230406,San Diego Padres,Atlanta Braves,A.J. Minter,Nabil Crismatt,6,33,7,7,37,13
+20230407,Miami Marlins,New York Mets,Tylor Megill,Edward Cabrera,3,31,6,9,28,6
+20230407,New York Yankees,Baltimore Orioles,Cionel Pérez,Ron Marinaccio,6,34,9,7,34,10
+20230407,Houston Astros,Minnesota Twins,Jorge López,Ryne Stanek,2,34,5,3,38,11
+20230407,Chicago White Sox,Pittsburgh Pirates,Dauri Moreta,Jake Diekman,9,38,11,13,42,19
+20230407,Kansas City Royals,San Francisco Giants,Brad Keller,Alex Cobb,3,34,9,1,30,5
+20230407,Washington Nationals,Colorado Rockies,MacKenzie Gore,José Ureña,10,40,18,5,36,10
+20230407,Los Angeles Dodgers,Arizona Diamondbacks,Drey Jameson,Clayton Kershaw,3,30,5,6,33,10
+20230408,Houston Astros,Minnesota Twins,Joe Ryan,Seth Martinez,6,35,7,9,35,12
+20230408,Boston Red Sox,Detroit Tigers,Tanner Houck,Joey Wentz,14,39,12,5,33,6
+20230408,Oakland Athletics,Tampa Bay Rays,Jeffrey Springs,Shintaro Fujinami,0,28,3,11,31,8
+20230408,Seattle Mariners,Cleveland Guardians,Marco Gonzales,Cal Quantrill,3,35,11,2,35,9
+20230408,St. Louis Cardinals,Milwaukee Brewers,Jordan Montgomery,Eric Lauer,6,37,12,0,32,5
+20230408,Toronto Blue Jays,Los Angeles Angels,Jaime Barria,José Berríos,5,36,10,9,33,10
+20230409,Cincinnati Reds,Philadelphia Phillies,Kevin Herget,Seranthony Domínguez,6,32,6,4,30,7
+20230409,New York Yankees,Baltimore Orioles,Nestor Cortes,Tyler Wells,5,35,9,3,32,6
+20230409,Chicago White Sox,Pittsburgh Pirates,Johan Oviedo,Michael Kopech,0,32,6,1,25,2
+20230409,Seattle Mariners,Cleveland Guardians,Tim Herrin,Penn Murfee,6,44,9,7,43,9
+20230409,Miami Marlins,New York Mets,Tanner Scott,Carlos Carrasco,7,36,11,2,37,9
+20230409,St. Louis Cardinals,Milwaukee Brewers,Freddy Peralta,Jake Woodford,1,33,6,6,34,11
+20230409,Washington Nationals,Colorado Rockies,Dinelson Lamet,Erasmo Ramírez,6,35,8,7,33,10
+20230409,Kansas City Royals,San Francisco Giants,John Brebbia,Ryan Yarbrough,1,31,5,3,29,5
+20230409,Los Angeles Dodgers,Arizona Diamondbacks,Ryne Nelson,Michael Grove,6,33,7,11,40,16
+20230410,Chicago White Sox,Minnesota Twins,Dylan Cease,Kenta Maeda,4,35,8,3,34,4
+20230410,Houston Astros,Pittsburgh Pirates,Framber Valdez,Roansy Contreras,8,38,13,2,27,3
+20230410,Miami Marlins,Philadelphia Phillies,Matt Strahm,Sandy Alcantara,3,35,9,15,44,20
+20230410,Boston Red Sox,Tampa Bay Rays,Colin Poche,Chris Martin,0,30,3,1,29,5
+20230410,San Diego Padres,New York Mets,Max Scherzer,Yu Darvish,0,28,2,5,30,7
+20230410,St. Louis Cardinals,Colorado Rockies,Germán Márquez,Steven Matz,4,32,6,7,35,13
+20230410,Washington Nationals,Los Angeles Angels,Patrick Corbin,Tucker Davidson,6,40,14,4,33,7
+20230410,Milwaukee Brewers,Arizona Diamondbacks,Zac Gallen,Wade Miley,0,28,3,3,32,8
+20230410,Los Angeles Dodgers,San Francisco Giants,Julio Urías,Logan Webb,9,36,9,1,33,7
+20230411,New York Yankees,Cleveland Guardians,Gerrit Cole,Hunter Gaddis,11,37,13,2,31,7
+20230411,Oakland Athletics,Baltimore Orioles,Bryan Baker,Sam Moll,8,39,12,12,34,12
+20230411,Miami Marlins,Philadelphia Phillies,Jesús Luzardo,Aaron Nola,8,40,14,4,35,11
+20230411,San Diego Padres,New York Mets,Ryan Weathers,David Peterson,4,34,9,2,29,5
+20230411,Kansas City Royals,Texas Rangers,Cole Ragans,Scott Barlow,5,38,11,8,36,10
+20230412,New York Yankees,Cleveland Guardians,Wandy Peralta,Emmanuel Clase,4,33,7,3,32,6
+20230412,San Diego Padres,New York Mets,Tylor Megill,Blake Snell,2,31,6,5,30,8
+20230412,Miami Marlins,Philadelphia Phillies,A.J. Puk,Gregory Soto,3,37,8,2,37,8
+20230412,Detroit Tigers,Toronto Blue Jays,Jordan Romano,Chasen Shreve,3,34,6,4,31,9
+20230412,Los Angeles Dodgers,San Francisco Giants,Clayton Kershaw,Taylor Rogers,10,38,13,5,36,10
+20230413,Boston Red Sox,Tampa Bay Rays,Kevin Kelly,Corey Kluber,3,31,4,9,34,10
+20230413,Philadelphia Phillies,Cincinnati Reds,Nick Lodolo,Bailey Falter,2,35,9,6,33,10
+20230413,Minnesota Twins,New York Yankees,Joe Ryan,Jhony Brito,11,39,13,2,31,4
+20230413,Pittsburgh Pirates,St. Louis Cardinals,Vince Velasquez,Jordan Montgomery,5,34,9,0,34,6
+20230413,Milwaukee Brewers,San Diego Padres,Devin Williams,Luis García,4,35,6,3,34,6
+20230414,Philadelphia Phillies,Cincinnati Reds,Taijuan Walker,Connor Overton,8,38,13,3,33,6
+20230414,San Francisco Giants,Detroit Tigers,José Cisnero,Camilo Doval,5,43,11,7,40,10
+20230414,Tampa Bay Rays,Toronto Blue Jays,José Berríos,Drew Rasmussen,3,35,8,6,33,10
+20230414,Baltimore Orioles,Chicago White Sox,Mike Baumann,Reynaldo López,6,32,7,3,32,6
+20230414,Texas Rangers,Houston Astros,Martín Pérez,Luis Garcia,6,37,11,2,32,6
+20230414,Milwaukee Brewers,San Diego Padres,Eric Lauer,Michael Wacha,11,40,15,2,34,9
+20230414,Chicago Cubs,Los Angeles Dodgers,Justin Steele,Noah Syndergaard,8,39,12,2,30,3
+20230415,Minnesota Twins,New York Yankees,Domingo Germán,Tyler Mahle,1,31,5,6,31,6
+20230415,San Francisco Giants,Detroit Tigers,Chasen Shreve,Taylor Rogers,6,42,9,7,40,10
+20230415,Pittsburgh Pirates,St. Louis Cardinals,David Bednar,Jordan Hicks,6,37,10,3,32,7
+20230415,Tampa Bay Rays,Toronto Blue Jays,Yusei Kikuchi,Trevor Kelley,2,35,8,5,30,7
+20230415,Milwaukee Brewers,San Diego Padres,Steven Wilson,Freddy Peralta,3,37,12,10,35,12
+20230415,Cleveland Guardians,Washington Nationals,Zach Plesac,Chad Kuhl,6,36,11,4,38,11
+20230415,New York Mets,Oakland Athletics,Drew Smith,Shintaro Fujinami,3,32,5,2,30,5
+20230415,Los Angeles Angels,Boston Red Sox,Ryan Brasier,Ryan Tepera,7,36,9,9,32,11
+20230415,Philadelphia Phillies,Cincinnati Reds,Graham Ashcraft,Matt Strahm,0,31,5,13,37,14
+20230415,Atlanta Braves,Kansas City Royals,Bryce Elder,Kris Bubic,9,40,14,3,38,11
+20230415,Arizona Diamondbacks,Miami Marlins,Andrew Nardi,Scott McGough,2,31,6,3,30,9
+20230416,Minnesota Twins,New York Yankees,Gerrit Cole,Pablo López,0,27,2,2,30,7
+20230416,Philadelphia Phillies,Cincinnati Reds,Aaron Nola,Luis Cessa,14,50,23,3,32,8
+20230416,Arizona Diamondbacks,Miami Marlins,Zac Gallen,Sandy Alcantara,5,33,7,0,29,4
+20230416,Baltimore Orioles,Chicago White Sox,Mike Baumann,Aaron Bummer,8,39,12,4,32,7
+20230416,Pittsburgh Pirates,St. Louis Cardinals,Drew VerHagen,Wil Crowe,4,37,8,5,40,12
+20230416,New York Mets,Oakland Athletics,Jimmy Yacabonis,Sam Moll,4,34,6,3,38,9
+20230416,Milwaukee Brewers,San Diego Padres,Wade Miley,Yu Darvish,1,30,4,0,33,5
+20230416,Colorado Rockies,Seattle Mariners,Luis Castillo,Dinelson Lamet,0,30,3,1,26,4
+20230417,San Francisco Giants,Miami Marlins,Matt Barnes,Logan Webb,3,32,7,4,31,9
+20230417,Chicago Cubs,Oakland Athletics,Hayden Wesneski,Kyle Muller,10,44,20,1,34,8
+20230417,Atlanta Braves,San Diego Padres,Max Fried,Ryan Weathers,2,32,7,0,32,6
+20230417,New York Mets,Los Angeles Dodgers,David Peterson,Alex Vesia,8,39,14,6,36,9
+20230418,Tampa Bay Rays,Cincinnati Reds,Taj Bradley,Nick Lodolo,10,41,17,0,31,4
+20230418,Toronto Blue Jays,Houston Astros,Chris Bassitt,José Urquidy,4,33,8,2,36,8
+20230418,Chicago Cubs,Oakland Athletics,Mark Leiter Jr.,Trevor May,4,36,8,0,28,2
+20230418,Milwaukee Brewers,Seattle Mariners,Bryse Wilson,Justin Topa,6,38,6,5,37,7
+20230418,New York Mets,Los Angeles Dodgers,Clayton Kershaw,Tylor Megill,0,31,4,5,31,9
+20230419,Tampa Bay Rays,Cincinnati Reds,Drew Rasmussen,Levi Stoudt,8,37,12,0,30,5
+20230419,Philadelphia Phillies,Chicago White Sox,Taijuan Walker,Mike Clevinger,5,36,9,2,31,6
+20230419,Pittsburgh Pirates,Colorado Rockies,Johan Oviedo,Austin Gomber,14,44,18,3,32,5
+20230419,Baltimore Orioles,Washington Nationals,Kyle Bradish,MacKenzie Gore,4,30,4,0,33,6
+20230419,Minnesota Twins,Boston Red Sox,Joe Ryan,Corey Kluber,10,37,9,4,32,7
+20230419,Toronto Blue Jays,Houston Astros,Luis Garcia,José Berríos,1,30,4,8,31,8
+20230420,Los Angeles Angels,New York Yankees,Nestor Cortes,Patrick Sandoval,3,32,7,9,32,9
+20230420,Colorado Rockies,Philadelphia Phillies,Ryan Feltner,Matt Strahm,5,33,7,0,33,6
+20230420,Los Angeles Dodgers,Chicago Cubs,Caleb Ferguson,Michael Fulmer,6,34,9,2,31,6
+20230420,San Diego Padres,Arizona Diamondbacks,Brent Honeywell Jr.,Kyle Nelson,7,34,7,5,39,12
+20230420,New York Mets,San Francisco Giants,Kodai Senga,Sean Manaea,9,38,13,4,33,7
+20230421,Cincinnati Reds,Pittsburgh Pirates,Mitch Keller,Derek Law,2,32,5,4,29,6
+20230421,Chicago White Sox,Tampa Bay Rays,Kevin Kelly,Reynaldo López,7,37,10,8,34,10
+20230421,Houston Astros,Atlanta Braves,Hector Neris,A.J. Minter,6,36,11,4,33,7
+20230421,Boston Red Sox,Milwaukee Brewers,Nick Pivetta,Freddy Peralta,5,34,8,3,34,8
+20230421,Washington Nationals,Minnesota Twins,Erasmo Ramírez,Griffin Jax,3,34,6,2,28,6
+20230421,San Diego Padres,Arizona Diamondbacks,Zac Gallen,Seth Lugo,0,29,2,9,36,12
+20230421,New York Mets,San Francisco Giants,Joey Lucchesi,Anthony DeSclafani,7,39,13,0,29,5
+20230422,Washington Nationals,Minnesota Twins,Mason Thompson,Pablo López,10,39,15,4,37,9
+20230422,Los Angeles Dodgers,Chicago Cubs,Dustin May,Hayden Wesneski,9,38,11,4,32,5
+20230422,Colorado Rockies,Philadelphia Phillies,Connor Brogdon,Kyle Freeland,3,35,9,4,31,7
+20230422,New York Mets,San Francisco Giants,Logan Webb,David Peterson,4,35,10,7,31,7
+20230422,Detroit Tigers,Baltimore Orioles,Kyle Gibson,Joey Wentz,1,29,2,5,30,6
+20230422,Oakland Athletics,Texas Rangers,Andrew Heaney,Shintaro Fujinami,3,31,7,18,42,18
+20230422,Boston Red Sox,Milwaukee Brewers,Wade Miley,Garrett Whitlock,4,34,8,5,31,9
+20230422,San Diego Padres,Arizona Diamondbacks,Joe Musgrove,Merrill Kelly,5,32,6,3,35,9
+20230422,St. Louis Cardinals,Seattle Mariners,Matt Brash,Zack Thompson,4,35,9,5,31,7
+20230423,Colorado Rockies,Philadelphia Phillies,Zack Wheeler,José Ureña,3,34,7,9,29,8
+20230423,Houston Astros,Atlanta Braves,Hector Neris,A.J. Minter,5,33,9,2,29,3
+20230423,Detroit Tigers,Baltimore Orioles,Keegan Akin,Mason Englert,1,34,7,2,30,3
+20230423,Chicago White Sox,Tampa Bay Rays,Zach Eflin,Lucas Giolito,1,30,3,4,28,5
+20230423,Washington Nationals,Minnesota Twins,Bailey Ober,Patrick Corbin,1,28,3,3,33,9
+20230423,Oakland Athletics,Texas Rangers,Jacob deGrom,Kyle Muller,2,33,5,5,31,9
+20230423,Kansas City Royals,Los Angeles Angels,Austin Warren,Jordan Lyles,3,33,8,4,31,7
+20230423,San Diego Padres,Arizona Diamondbacks,Yu Darvish,Drey Jameson,7,32,8,5,31,6
+20230423,St. Louis Cardinals,Seattle Mariners,Jack Flaherty,Chris Flexen,7,37,13,3,31,6
+20230424,Colorado Rockies,Cleveland Guardians,Austin Gomber,Cal Quantrill,6,37,10,0,30,4
+20230424,Boston Red Sox,Baltimore Orioles,Dean Kremer,Chris Sale,4,31,7,5,32,13
+20230424,Texas Rangers,Cincinnati Reds,Alexis Díaz,José Leclerc,6,35,10,7,31,8
+20230424,St. Louis Cardinals,San Francisco Giants,Alex Cobb,Jordan Montgomery,0,32,6,4,32,8
+20230425,Boston Red Sox,Baltimore Orioles,Corey Kluber,Kyle Bradish,8,35,11,6,39,11
+20230425,Los Angeles Dodgers,Pittsburgh Pirates,Yency Almonte,Colin Holderman,8,36,9,7,39,12
+20230425,Texas Rangers,Cincinnati Reds,Reiver Sanmartin,Ian Kennedy,6,37,10,7,35,11
+20230425,Houston Astros,Tampa Bay Rays,Luis Garcia,Drew Rasmussen,5,37,11,0,30,5
+20230425,Chicago White Sox,Toronto Blue Jays,José Berríos,Mike Clevinger,0,30,4,7,33,10
+20230425,Miami Marlins,Atlanta Braves,Charlie Morton,Bryan Hoeing,4,35,10,7,33,10
+20230425,San Diego Padres,Chicago Cubs,Justin Steele,Blake Snell,0,31,5,6,30,7
+20230425,Detroit Tigers,Milwaukee Brewers,Mason Englert,Eric Lauer,4,39,12,3,32,5
+20230425,New York Yankees,Minnesota Twins,Joe Ryan,Nestor Cortes,2,35,8,6,33,8
+20230425,Oakland Athletics,Los Angeles Angels,Griffin Canning,Mason Miller,3,33,6,5,34,10
+20230425,Kansas City Royals,Arizona Diamondbacks,Brady Singer,Ryne Nelson,5,37,14,4,36,10
+20230425,St. Louis Cardinals,San Francisco Giants,Sean Hjelle,Ryan Helsley,4,34,9,5,33,9
+20230426,New York Yankees,Minnesota Twins,Domingo Germán,Kenta Maeda,12,39,14,6,31,5
+20230426,Detroit Tigers,Milwaukee Brewers,Freddy Peralta,Michael Lorenzen,2,34,7,6,32,8
+20230426,Houston Astros,Tampa Bay Rays,Hunter Brown,Calvin Faucher,1,30,5,0,27,2
+20230426,Washington Nationals,New York Mets,MacKenzie Gore,Kodai Senga,4,35,8,1,32,4
+20230426,Miami Marlins,Atlanta Braves,Michael Tonkin,Dylan Floro,4,32,5,6,33,9
+20230426,San Diego Padres,Chicago Cubs,Nick Martinez,Brandon Hughes,5,35,9,3,35,8
+20230426,Oakland Athletics,Los Angeles Angels,Patrick Sandoval,Luis Medina,3,33,6,11,37,12
+20230427,Miami Marlins,Atlanta Braves,A.J. Puk,A.J. Minter,5,37,11,4,32,5
+20230427,Los Angeles Dodgers,Pittsburgh Pirates,Mitch Keller,Julio Urías,2,32,5,6,30,8
+20230427,St. Louis Cardinals,San Francisco Giants,Miles Mikolas,Logan Webb,6,38,12,0,33,6
+20230427,Baltimore Orioles,Detroit Tigers,Bryan Baker,Chasen Shreve,7,34,9,4,35,8
+20230427,Tampa Bay Rays,Chicago White Sox,Shane McClanahan,Dylan Cease,14,44,16,5,38,11
+20230427,New York Yankees,Texas Rangers,Gerrit Cole,Andrew Heaney,4,33,8,2,33,6
+20230428,Chicago Cubs,Miami Marlins,A.J. Puk,Michael Rucker,2,34,10,3,29,8
+20230428,Cleveland Guardians,Boston Red Sox,Shane Bieber,Nick Pivetta,5,33,8,2,34,8
+20230428,Tampa Bay Rays,Chicago White Sox,Colin Poche,Kendall Graveman,3,36,9,2,33,7
+20230428,Atlanta Braves,New York Mets,Max Fried,David Peterson,4,20,5,0,18,3
+20230428,New York Yankees,Texas Rangers,Dane Dunning,Clarke Schmidt,2,31,5,5,34,10
+20230428,Los Angeles Angels,Milwaukee Brewers,Peter Strzelecki,Aaron Loup,1,35,9,2,32,8
+20230428,St. Louis Cardinals,Los Angeles Dodgers,Dustin May,Jack Flaherty,3,31,6,7,33,9
+20230429,Kansas City Royals,Minnesota Twins,Aroldis Chapman,Jhoan Duran,3,31,6,2,35,10
+20230429,Chicago Cubs,Miami Marlins,Edward Cabrera,Caleb Kilian,6,33,9,7,35,12
+20230429,Cincinnati Reds,Oakland Athletics,Casey Legumina,Jeurys Familia,3,32,9,2,33,7
+20230429,Philadelphia Phillies,Houston Astros,Zack Wheeler,Cristian Javier,6,37,12,1,33,6
+20230429,San Francisco Giants,San Diego Padres,Tom Cosgrove,Tyler Rogers,11,39,13,16,41,17
+20230429,New York Yankees,Texas Rangers,Nathan Eovaldi,Jhony Brito,0,28,3,2,27,5
+20230429,Tampa Bay Rays,Chicago White Sox,Yonny Chirinos,Lance Lynn,12,38,11,3,32,4
+20230429,Los Angeles Angels,Milwaukee Brewers,Corbin Burnes,Reid Detmers,5,36,11,7,30,5
+20230429,Arizona Diamondbacks,Colorado Rockies,Tommy Henry,Noah Davis,11,42,16,4,34,8
+20230429,St. Louis Cardinals,Los Angeles Dodgers,Clayton Kershaw,Jordan Montgomery,0,31,3,1,29,5
+20230430,Cleveland Guardians,Boston Red Sox,Chris Sale,Logan Allen,1,32,4,7,33,9
+20230430,Pittsburgh Pirates,Washington Nationals,Josiah Gray,Johan Oviedo,2,33,6,7,38,15
+20230430,Seattle Mariners,Toronto Blue Jays,Paul Sewald,Zach Pop,10,36,7,8,44,14
+20230430,Kansas City Royals,Minnesota Twins,Sonny Gray,Brady Singer,4,37,10,8,31,7
+20230430,Arizona Diamondbacks,Colorado Rockies,Austin Gomber,Ryne Nelson,4,33,7,12,38,16
+20230430,San Francisco Giants,San Diego Padres,Luis García,Tyler Rogers,4,36,9,6,33,10
+20230430,Philadelphia Phillies,Houston Astros,José Urquidy,Bailey Falter,3,33,5,4,31,9
+20230501,Atlanta Braves,New York Mets,Spencer Strider,Denyi Reyes,9,36,9,8,35,9
+20230501,Cleveland Guardians,New York Yankees,Enyel De Los Santos,Clay Holmes,3,32,5,2,31,6
+20230501,Chicago Cubs,Washington Nationals,Drew Smyly,MacKenzie Gore,5,36,10,1,32,6
+20230501,San Francisco Giants,Houston Astros,Ryne Stanek,Sean Hjelle,3,32,5,7,34,10
+20230501,Cincinnati Reds,San Diego Padres,Blake Snell,Luke Weaver,3,35,8,8,38,16
+20230501,Philadelphia Phillies,Los Angeles Dodgers,Victor González,Taijuan Walker,4,35,9,13,39,15
+20230502,Atlanta Braves,Miami Marlins,Bryce Elder,Sandy Alcantara,6,32,9,0,30,4
+20230502,Pittsburgh Pirates,Tampa Bay Rays,Colin Poche,Roansy Contreras,1,30,5,4,27,6
+20230502,Los Angeles Angels,St. Louis Cardinals,Patrick Sandoval,Steven Matz,5,35,8,1,30,4
+20230502,Arizona Diamondbacks,Texas Rangers,Brock Burke,Scott McGough,4,35,9,6,32,10
+20230502,San Francisco Giants,Houston Astros,Anthony DeSclafani,Hunter Brown,2,29,7,0,30,3
+20230502,Seattle Mariners,Oakland Athletics,Gabe Speier,Richard Lovelady,2,29,3,1,29,3
+20230502,Cincinnati Reds,San Diego Padres,Derek Law,Luis García,2,36,6,1,35,6
+20230502,Philadelphia Phillies,Los Angeles Dodgers,Julio Urías,Matt Strahm,1,29,2,13,40,17
+20230503,Arizona Diamondbacks,Texas Rangers,Joe Mantiply,Josh Sborz,12,36,10,7,38,12
+20230503,Philadelphia Phillies,Los Angeles Dodgers,Brusdar Graterol,Craig Kimbrel,6,36,10,10,35,11
+20230503,Cincinnati Reds,San Diego Padres,Seth Lugo,Luis Cessa,1,33,8,7,33,10
+20230503,Atlanta Braves,Miami Marlins,Collin McHugh,Braxton Garrett,14,43,18,6,38,12
+20230503,Pittsburgh Pirates,Tampa Bay Rays,Shane McClanahan,Mitch Keller,1,34,7,8,36,10
+20230503,Cleveland Guardians,New York Yankees,Albert Abreu,Trevor Stephan,3,37,9,4,33,8
+20230503,Chicago Cubs,Washington Nationals,Carl Edwards Jr.,Adbert Alzolay,1,29,6,2,29,8
+20230503,Toronto Blue Jays,Boston Red Sox,Nick Pivetta,Alek Manoah,3,33,7,8,40,15
+20230503,Milwaukee Brewers,Colorado Rockies,Kyle Freeland,Eric Lauer,1,29,5,7,33,10
+20230503,Seattle Mariners,Oakland Athletics,Matt Brash,Adam Oller,7,39,11,2,32,6
+20230505,Miami Marlins,Chicago Cubs,Justin Steele,Edward Cabrera,1,30,8,4,32,8
+20230505,Toronto Blue Jays,Pittsburgh Pirates,Chris Bassitt,Rich Hill,4,33,8,0,28,4
+20230505,Chicago White Sox,Cincinnati Reds,Lance Lynn,Hunter Greene,5,33,7,4,33,8
+20230505,New York Yankees,Tampa Bay Rays,Kevin Kelly,Jimmy Cordero,4,34,8,5,29,7
+20230505,Colorado Rockies,New York Mets,Kodai Senga,Antonio Senzatela,0,30,5,1,28,5
+20230505,Baltimore Orioles,Atlanta Braves,Dean Kremer,Max Fried,9,39,12,4,35,11
+20230505,Detroit Tigers,St. Louis Cardinals,Matthew Boyd,Jordan Hicks,5,36,9,4,40,13
+20230505,Washington Nationals,Arizona Diamondbacks,Merrill Kelly,Josiah Gray,1,30,4,3,30,7
+20230505,Los Angeles Dodgers,San Diego Padres,Yu Darvish,Clayton Kershaw,2,30,4,5,30,8
+20230505,Milwaukee Brewers,San Francisco Giants,Sean Manaea,Corbin Burnes,4,32,7,6,29,5
+20230506,Detroit Tigers,St. Louis Cardinals,José Cisnero,Giovanny Gallegos,6,42,13,5,38,9
+20230506,Miami Marlins,Chicago Cubs,Keegan Thompson,A.J. Puk,2,31,6,4,35,10
+20230506,New York Yankees,Tampa Bay Rays,Ron Marinaccio,Kevin Kelly,3,35,8,2,32,9
+20230506,Minnesota Twins,Cleveland Guardians,Trevor Stephan,Jorge Alcala,3,35,8,4,29,5
+20230506,Toronto Blue Jays,Pittsburgh Pirates,José Berríos,Johan Oviedo,8,38,14,2,32,5
+20230506,Chicago White Sox,Cincinnati Reds,Derek Law,Mike Clevinger,3,33,8,5,31,8
+20230506,Oakland Athletics,Kansas City Royals,Ken Waldichuk,Brady Singer,5,35,9,4,34,7
+20230506,Baltimore Orioles,Atlanta Braves,A.J. Minter,Danny Coulombe,4,35,8,5,31,9
+20230506,Boston Red Sox,Philadelphia Phillies,Corey Kluber,Bailey Falter,7,35,10,4,37,10
+20230506,Milwaukee Brewers,San Francisco Giants,Alex Cobb,Colin Rea,1,32,6,4,30,6
+20230506,Washington Nationals,Arizona Diamondbacks,Miguel Castro,Kyle Finnegan,7,36,11,8,37,16
+20230506,Los Angeles Dodgers,San Diego Padres,Dustin May,Blake Snell,2,30,3,1,32,5
+20230506,Texas Rangers,Los Angeles Angels,Nathan Eovaldi,Reid Detmers,10,42,15,1,32,6
+20230506,Houston Astros,Seattle Mariners,Tayler Saucedo,Rafael Montero,5,33,9,7,35,12
+20230507,Baltimore Orioles,Atlanta Braves,Michael Tonkin,Cionel Pérez,2,40,5,3,39,4
+20230507,Toronto Blue Jays,Pittsburgh Pirates,Yusei Kikuchi,Roansy Contreras,10,42,15,1,35,8
+20230507,Minnesota Twins,Cleveland Guardians,Cal Quantrill,Joe Ryan,0,27,1,2,32,8
+20230507,New York Yankees,Tampa Bay Rays,Jalen Beeks,Albert Abreu,7,40,11,8,39,10
+20230507,Detroit Tigers,St. Louis Cardinals,Drew VerHagen,Mason Englert,6,36,8,12,37,10
+20230507,Los Angeles Dodgers,San Diego Padres,Caleb Ferguson,Brent Honeywell Jr.,5,37,6,2,38,9
+20230509,Detroit Tigers,Cleveland Guardians,Shane Bieber,Michael Lorenzen,0,36,9,2,29,7
+20230509,Colorado Rockies,Pittsburgh Pirates,Connor Seabold,Luis Ortiz,10,37,11,1,30,4
+20230509,Oakland Athletics,New York Yankees,Clarke Schmidt,Drew Rucinski,5,36,10,10,33,10
+20230509,Boston Red Sox,Atlanta Braves,Charlie Morton,Nick Pivetta,3,33,8,9,35,12
+20230509,St. Louis Cardinals,Chicago Cubs,Chris Stratton,Javier Assad,6,34,9,4,32,9
+20230509,Chicago White Sox,Kansas City Royals,Lucas Giolito,Jordan Lyles,4,33,6,2,32,5
+20230509,Los Angeles Dodgers,Milwaukee Brewers,Justin Bruihl,Eric Lauer,6,34,8,2,32,5
+20230509,Houston Astros,Los Angeles Angels,Framber Valdez,Shohei Ohtani,3,33,7,1,31,3
+20230509,Miami Marlins,Arizona Diamondbacks,Jesús Luzardo,Brandon Pfaadt,6,34,9,2,37,11
+20230509,Washington Nationals,San Francisco Giants,Logan Webb,Patrick Corbin,1,36,10,4,35,10
+20230510,Oakland Athletics,New York Yankees,Jimmy Cordero,Kyle Muller,3,35,8,11,33,10
+20230510,Colorado Rockies,Pittsburgh Pirates,Brad Hand,Robert Stephenson,4,34,8,3,30,6
+20230510,Miami Marlins,Arizona Diamondbacks,Dylan Floro,Andrew Chafin,5,33,7,4,31,5
+20230510,Texas Rangers,Seattle Mariners,Dane Dunning,Luis Castillo,4,39,13,3,32,7
+20230510,Houston Astros,Los Angeles Angels,Cristian Javier,Griffin Canning,5,33,8,4,33,8
+20230510,Tampa Bay Rays,Baltimore Orioles,Dean Kremer,Yonny Chirinos,1,32,6,2,29,6
+20230510,New York Mets,Cincinnati Reds,Justin Verlander,Hunter Greene,2,35,10,1,28,2
+20230510,Boston Red Sox,Atlanta Braves,Brayan Bello,A.J. Minter,5,32,7,2,33,8
+20230510,San Diego Padres,Minnesota Twins,Griffin Jax,Domingo Tapia,3,32,4,4,36,9
+20230511,New York Mets,Cincinnati Reds,Ben Lively,Kodai Senga,0,33,6,5,31,10
+20230511,San Diego Padres,Minnesota Twins,Emilio Pagán,Brent Honeywell Jr.,3,33,6,5,30,6
+20230511,Chicago White Sox,Kansas City Royals,Scott Barlow,Reynaldo López,3,34,8,4,31,6
+20230511,Tampa Bay Rays,New York Yankees,Drew Rasmussen,Domingo Germán,8,38,11,2,30,4
+20230511,San Francisco Giants,Arizona Diamondbacks,Alex Cobb,Tommy Henry,6,33,8,2,32,9
+20230514,Los Angeles Angels,Cleveland Guardians,James Karinchak,Patrick Sandoval,3,31,5,4,30,7
+20230514,Pittsburgh Pirates,Baltimore Orioles,Mitch Keller,Kyle Gibson,4,33,7,0,35,8
+20230514,Seattle Mariners,Detroit Tigers,Jason Foley,Gabe Speier,3,37,10,5,33,9
+20230514,Cincinnati Reds,Miami Marlins,Tanner Scott,Kevin Herget,1,30,5,3,35,11
+20230514,Houston Astros,Chicago White Sox,Hunter Brown,Lucas Giolito,4,34,9,3,34,7
+20230514,Kansas City Royals,Milwaukee Brewers,Eric Lauer,Jordan Lyles,6,33,8,9,30,6
+20230514,Philadelphia Phillies,Colorado Rockies,Kyle Freeland,Aaron Nola,0,34,7,4,30,6
+20230514,Texas Rangers,Oakland Athletics,Jonathan Hernández,Austin Pruitt,11,40,11,3,33,7
+20230514,St. Louis Cardinals,Boston Red Sox,Miles Mikolas,Corey Kluber,9,42,14,1,31,5
+20230515,Seattle Mariners,Boston Red Sox,George Kirby,Tanner Houck,10,43,15,1,33,9
+20230515,Milwaukee Brewers,St. Louis Cardinals,Jack Flaherty,Freddy Peralta,1,32,6,18,38,16
+20230515,Chicago Cubs,Houston Astros,Rafael Montero,Michael Fulmer,4,33,8,6,32,11
+20230515,Arizona Diamondbacks,Oakland Athletics,Merrill Kelly,Drew Rucinski,5,35,10,2,31,4
+20230516,New York Yankees,Toronto Blue Jays,Ryan Weber,Erik Swanson,6,33,9,3,36,9
+20230516,Seattle Mariners,Boston Red Sox,Nick Pivetta,Luis Castillo,4,34,8,9,36,11
+20230516,Tampa Bay Rays,New York Mets,Yonny Chirinos,Justin Verlander,8,37,10,5,33,6
+20230516,Atlanta Braves,Texas Rangers,Dane Dunning,Jared Shuster,4,34,8,7,32,10
+20230516,Cleveland Guardians,Chicago White Sox,Lance Lynn,Shane Bieber,3,34,9,8,39,16
+20230516,Minnesota Twins,Los Angeles Dodgers,Bailey Ober,Clayton Kershaw,5,36,11,1,34,8
